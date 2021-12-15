@@ -1,2 +1,2 @@
 # simplegame
-Processing games
+Simple Processing invader shooting game
